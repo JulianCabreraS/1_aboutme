@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Julian</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Now it’s your turn to complete this exercise.
+\n\n Add a ScrollView with a TextView
+\n\n showing information about yourself to the layout.
+\n\n Style the TextView with NameStyle, and add additional
+\n styling to separate the scrollable text from the edges of the screen.
+\n\n Add some spacing between the lines using the
+\n\n lineSpacingMultiplier property to the TextView.
+    Now it’s your turn to complete this exercise.
+\n\n Add a ScrollView with a TextView
+\n\n showing information about yourself to the layout.
+\n\n Style the TextView with NameStyle, and add additional
+\n styling to separate the scrollable text from the edges of the screen.
+\n\n Add some spacing between the lines using the
+\n\n lineSpacingMultiplier property to the TextView
+    Now it’s your turn to complete this exercise.
+\n\n Add a ScrollView with a TextView
+\n\n showing information about yourself to the layout.
+\n\n Style the TextView with NameStyle, and add additional
+\n styling to separate the scrollable text from the edges of the screen.
+\n\n Add some spacing between the lines using the
+\n\n lineSpacingMultiplier property to the TextView
+    Now it’s your turn to complete this exercise.
+\n\n Add a ScrollView with a TextView
+\n\n showing information about yourself to the layout.
+\n\n Style the TextView with NameStyle, and add additional
+\n styling to separate the scrollable text from the edges of the screen.
+\n\n Add some spacing between the lines using the
+\n\n lineSpacingMultiplier property to the TextView</string>
+    <string name="what_is_your_name">what is your nickname</string>
+    <string name="Done">Done</string>
+</resources>
